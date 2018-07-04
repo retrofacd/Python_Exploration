@@ -1,0 +1,6 @@
+Election Results
+-------------------------
+['Vestal', 'Torres', 'Seth', 'Cordin']
+-------------------------
+Winner: Vestal
+Total Votes 803000

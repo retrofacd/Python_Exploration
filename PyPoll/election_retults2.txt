@@ -1,0 +1,6 @@
+Election Results
+-------------------------
+["O'Tooley", 'Li', 'Khan', 'Correy']
+-------------------------
+Winner: O'Tooley
+Total Votes 3521001
